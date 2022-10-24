@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Harvard and MIT students shut down Exxon recruiting event (Boston Globe)
-date: 2022-10-24 01:22:00-0600
+date: 2022-10-24 09:22:00-0400
 inline: false
 ---
 
