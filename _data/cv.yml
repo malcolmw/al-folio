@@ -11,36 +11,25 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD in Geological Sciences
       institution: University of Southern California, Los Angeles, USA
       year: 2021
-      description:
-          #        - Description 1.
-          #        - Description 2.
-          #        - title: Description 3.
-          #          contents:
-          #            - Sub-description 1.
-          #            - Sub-description 2.
-    - title: BSc
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
+    - title: BSc in Computational Geophysics
       institution: Carleton University, Ottawa, Canada
       year: 2013
-          #      description:
-          #        - Description 1.
-          #        - Description 2.
-          #
 - title: Experience
   type: time_table
   contents:
     - title: Postdoctoral Associate
       institution: Massachusetts Institute of Technology, Cambridge, USA
       year: 2021 - present
-      #      description:
-      #        - Description 1.
-      #        - Description 2.
-      #        - title: Description 3.
-      #          contents:
-      #            - Sub-description 1.
-      #            - Sub-description 2.
     - title: Adjunct Professor
       institution: Sattler College
       year: 2021
