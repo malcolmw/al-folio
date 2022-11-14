@@ -11,151 +11,111 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Geological Sciences
-      institution: University of Southern California, Los Angeles, USA
+    - title: PhD, Geological Sciences
+      institution: University of Southern California (Los Angeles, USA)
       year: 2021
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-      #   - title: Description 3.
-      #     contents:
-      #       - Sub-description 1.
-      #       - Sub-description 2.
-    - title: BSc in Computational Geophysics
-      institution: Carleton University, Ottawa, Canada
+    - title: BSc, Computational Geophysics
+      institution: Carleton University (Ottawa, Canada)
       year: 2013
-- title: Experience
+- title: Academic Appointments
   type: time_table
   contents:
     - title: Postdoctoral Associate
       institution: Massachusetts Institute of Technology, Cambridge, USA
-      year: 2021 - present
-    - title: Adjunct Professor
-      institution: Sattler College
-      year: 2021
-    - title: Graduate Research and Teaching Assistant
-      institution: University of Southern California, Los Angeles, USA
-      year: 2016 - 2021
-    - title: Seismic Analyst
-      institution: Scripps Institution of Oceanography, La Jolla, USA
-      year: 2013 - 2016
-    - title: Undergraduate Research Assistant
-      institution: Pacific Geoscience Center, Sidney, Canada
-      year: 2011 - 2013
-    - title: Undergraduate Research Assistant
-      institution: Geological Survey of Canada, Ottawa, Canada
-      year: 2010 - 2011
-- title: Grants and Awards
+      year: 2021 - now
+      #- title: Publications
+      #  type: nested_list
+      #  contents:
+      #    - title: Manuscripts Under Review
+      #      items: 
+      #        - Description 1.
+      #        - Description 2.
+      #    - title: Refereed Journal Articles
+      #      items:
+      #        - Description 1.
+      #        - Description 2.
+- title: Awards and Honours
   type: time_table
   contents:
     - year: 2022
       items:
-        - '<b>SCEC Award #22145 ($32 363)</b> Do ultra-shallow nanoseisms exist, and are they observable?'
-- title: Speaking Engagements
+        - '<b>SCEC Award #22145 ($32 363)</b>, Massachusetts Institute of Technology'
+- title: Invited Talks
   type: time_table
   contents:
-    - year: 2022
-      items:
-        - <b>Guest Lecture</b>, DSCI 552, University of Southern California
-        - Seismological Society of America Annual Meeting
-    - year: 2021
-      items:
-        - American Geophysical Union Annual Meetin
-        - Seismological Society of America Virtual Tomography Sessions
     - year: 2020
       items:
-        - American Geophysical Union Annual Meeting
-        - <b>Invited</b>, Earthquake Science Center Seminar, United States Geological Survey
-        - <b>Invited</b>, Southern California Earthquake Center Community Velocity Model Workshop
+        - Earthquake Science Center Seminar, United States Geological Survey
+        - Southern California Earthquake Center Community Velocity Model Workshop
+    - year: 2019
+      items:
+        - Friday Informal Seminar Hour, MIT EAPS
+    - year: 2018
+      items:
+        - Brown University, Geophysics Seminar
+- title: Departmental Talks
+  type: time_table
+  contents:
+    - year: 2020
+      items:
         - Lithospheric Dynamics Seminar, University of Southern California
     - year: 2019
       items:
-        - American Geophysical Union Annual Meeting
-        - Seismological Society of America Annual Meeting
-        - Seismology Student Workshop, Lamont-Doherty Earth Observatory
-        - <b>Invited</b>, Friday Informal Seminar Hour, MIT EAPS
-        - <b>Invited</b>, Brown University, Geophysics Seminar
         - Lithospheric Dynamics Seminar, University of Southern California
+- title: Teaching Experience
+  type: nested_list
+  contents:
+    - title: Sattler College
+      items: 
+        - Statistics and Data Science (2021)
+    - title: University of Southern California
+      items:
+        - The Nature of Scientific Inquiry (2018, 2017)
+        - Earthquakes (2018)
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Graduate Research and Teaching Assistant
+      institution: University of Southern California (Los Angeles, USA)
+      year: 2016 - 2021
+    - title: Seismic Analyst
+      institution: Scripps Institution of Oceanography (La Jolla, USA)
+      year: 2013 - 2016
+    - title: Undergraduate Research Assistant
+      institution: Pacific Geoscience Center  (Sidney, Canada)
+      year: 2011 - 2013
+    - title: Undergraduate Research Assistant
+      institution: Geological Survey of Canada (Ottawa, Canada)
+      year: 2010 - 2011
+- title: Service to Profession
+  type: list
+  contents:
+    - Referee, <i>Tectonics</i> (2021)
+    - Referee, <i>Geophysical Journal International</i> (2021)
+    - Referee, <i>Physics of the Earth and Planetary Interiors</i> (2021)
+    - Referee, <i>Pure and Applied Geophysics</i> (2021)
+    - Referee, <i>Seismological Research Letters</i> (2021)
+    - Referee, <i>Geophysical Journal International</i> (2020)
+    - Referee, <i>Public Library of Science</i> (2020)
+- title: Service to Department
+  type: list
+  contents:
+      - Organizing Commitee, MIT EAPS Department Lecture Series (2022)
 - title: Mentorship
   type: time_table
   contents:
     - title: Ryan Zaff
       institution: Undergraduate, Pennsylvania State University
-      year: 2022 - present
+      year: 2022 - now
     - title: Kevin Krahn
       institution: Undergraduate, Sattler College
-      year: 2021 - present
-- title: Teaching
-  type: time_table
-  contents:
-    - title: Statistics and Data Science
-      institution: Adjunct Professor, Sattler College
-      year: 2021
-    - title: The Nature of Scientific Inquiry
-      institution: Teaching Assistant, University of Southern California
-      year: 2018
-    - title: Earthquakes
-      institution: Teaching Assistant, University of Southern California
-      year: 2018
-    - title: The Nature of Scientific Inquiry
-      institution: Teaching Assistant, University of Southern California
-      year: 2017
+      year: 2021 - now
 - title: Professional Society Memberships
   type: time_table
   contents:
-    - year: 2016 - present
+    - year: 2015 - now
       items:
         - American Geophysical Union
+    - year: 2016 - now
+      items:
         - Seismological Society of America
-- title: Service
-  type: time_table
-  contents:
-    - year: 2022
-      items:
-        - <b>Organizing Commitee</b>, MIT EAPS Department Lecture Series
-    - year: 2021
-      items:
-        - <b>Referee</b>, Tectonics
-        - <b>Referee</b>, Geophysical Journal International
-        - <b>Referee</b>, Physics of the Earth and Planetary Interiors
-        - <b>Referee</b>, Pure and Applied Geophysics
-        - <b>Referee</b>, Seismological Research Letters
-    - year: 2020
-      items:
-        - <b>Referee</b>, Geophysical Journal International
-        - <b>Referee</b>, Public Library of Science
-
-          #- title: Open Source Projects
-          #  type: time_table
-          #  contents:
-          #    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-          #      year: 2015-now
-          #      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-          #
-          #- title: Honors and Awards
-          #  type: time_table
-          #  contents:
-          #    - year: 1921
-          #      items: 
-          #        - Nobel Prize in Physics 
-          #        - Matteucci Medal
-          #    - year: 2029
-          #      items: 
-          #        - Max Planck Medal
-          #
-          #- title: Academic Interests
-          #  type: nested_list
-          #  contents:
-          #    - title: Topic 1.
-          #      items: 
-          #        - Description 1.
-          #        - Description 2.
-          #    - title: Topic 2.
-          #      items:
-          #        - Description 1.
-          #        - Description 2.
-          #
-          #- title: Other Interests
-          #  type: list
-          #  contents:
-          #    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
