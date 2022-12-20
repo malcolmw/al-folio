@@ -4,3 +4,4 @@ github_users:
 github_repos:
   - malcolmw/pykonal
   - malcolmw/FastMapSVM
+  - malcolmw/HDF5eis
