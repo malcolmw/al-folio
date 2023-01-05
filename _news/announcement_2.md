@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Upcoming presentation at the 2023 Stanford Geothermal Workshop
+title: Upcoming presentation at the 2023 Stanford Geothermal Workshop (6-8 February 2023)
 date: 2022-10-28 12:56:00-0400
 inline: false
 ---
