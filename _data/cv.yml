@@ -3,10 +3,10 @@
   contents:
     - name: Full Name
       value: Malcolm C. A. White
-    - name: Date of Birth
-      value: 9th December 1988
-    - name: Languages
-      value: English
+    - name: Nationality
+      value: Canadian
+    - name: Place of Residence
+      value: Medford, MA, US
 
 - title: Education
   type: time_table
@@ -20,6 +20,9 @@
 - title: Academic Appointments
   type: time_table
   contents:
+    - title: Berkeley Lab Affiliate
+      institution: Lawrence Berkeley National Laboratory, Berkeley, USA
+      year: 2023 - now
     - title: Postdoctoral Associate
       institution: Massachusetts Institute of Technology, Cambridge, USA
       year: 2021 - now
@@ -43,6 +46,10 @@
 - title: Invited Talks
   type: time_table
   contents:
+    - year: 2023
+      items:
+        - Institute of Geophysics and Planetary Physics Seminar, UC Santa Cruz
+        - Earthquake Seminar, University of Southern California
     - year: 2020
       items:
         - Earthquake Science Center Seminar, United States Geological Survey
@@ -90,6 +97,7 @@
 - title: Service to Profession
   type: list
   contents:
+    - Judge, AGU Outstanding Student Presentation Award (2022)
     - Referee, <i>Tectonics</i> (2021)
     - Referee, <i>Geophysical Journal International</i> (2021)
     - Referee, <i>Physics of the Earth and Planetary Interiors</i> (2021)
@@ -100,10 +108,14 @@
 - title: Service to Department
   type: list
   contents:
-      - Organizing Commitee, MIT EAPS Department Lecture Series (2022)
+      - Organizing Commitee, MIT EAPS FISH Lecture Series (2023-present)
+      - Organizing Commitee, MIT EAPS Department Lecture Series (2022-present)
 - title: Mentorship
   type: time_table
   contents:
+    - title: Eli Mansbach
+      institution: PhD Candidate, MIT
+      year: 2022 - now
     - title: Ryan Zaff
       institution: Undergraduate, Pennsylvania State University
       year: 2022 - now
