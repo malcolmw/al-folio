@@ -113,15 +113,12 @@
 - title: Mentorship
   type: time_table
   contents:
-    - title: Eli Mansbach
-      institution: PhD Candidate, MIT
-      year: 2022 - now
     - title: Ryan Zaff
       institution: Undergraduate, Pennsylvania State University
       year: 2022 - now
     - title: Kevin Krahn
       institution: Undergraduate, Sattler College
-      year: 2021 - now
+      year: 2021 - 2023
 - title: Professional Society Memberships
   type: time_table
   contents:
